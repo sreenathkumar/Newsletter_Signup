@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+   "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sreenath Kumar",
@@ -14,4 +15,5 @@
     "nodemon": "^2.0.12",
     "request": "^2.88.2"
   }
+ 
 }
