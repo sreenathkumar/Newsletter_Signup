@@ -69,7 +69,7 @@ app.post('/', function (req, res) {
    });
    request.write(jsonData);
    request.end();
-   // ab66ce9027e7b25bc8e63aaa8197b7f8-us20
+
 });
 
 app.post('/success', function (req, res) {
